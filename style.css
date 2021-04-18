@@ -1,0 +1,69 @@
+/* TOP */
+.fz_fc_nav {
+    font-size: 15px !important;
+    color: #0088cc !important;  
+}
+.main_brd_bottom {
+    border-bottom: 1px solid #eaeaea;
+}
+.main_color {
+    color: #0088cc !important;  
+}
+.main_search {
+    width: 246px;
+    border: none;
+    border-bottom: 1px solid #0088cc;
+    border-radius: 0px;
+    font-size: 14px;
+    opacity: 0.3;
+}
+.main_search:focus {
+    border-color: none !important;
+    border-bottom: 1px solid #0088cc;
+    box-shadow: none;
+    opacity: 1;
+}
+.btn_main_head {
+    color: #0088cc;
+    font-size: 14px;
+    border-bottom: 1px solid #0088cc;
+    border-radius: 0px;
+}
+.btn_main_head:hover {
+    border-bottom: 2px solid #0088cc;
+}
+.btn_main_head:focus {
+    box-shadow: none;
+}
+.btn_main_head:active {
+    border-bottom: 1px solid #0088cc ;
+}
+
+/* mid */
+.h1_fz_cl {
+    font-size: 32px;
+    color: #333;
+}
+.p_clgn {
+    font-size: 16px;
+    color: #8c8c8c;
+}
+
+/* footer */
+.main_brd_top {
+    border-top: 1px solid #eaeaea;
+}
+.m_b_and_p_b {
+    margin: 24px 0px 0px 0px;
+    padding: 18px 0px 0px 0px;
+}
+.h5_logos_bott {
+    font-size: 17px;
+}
+.description {
+    font-size: 13px;
+}
+.link_bt_ft {
+    font-size: 13px;
+    color: #0088cc;
+}
